@@ -1,0 +1,15 @@
+username: ""
+password: ""
+dbusername: ""
+dbpassword: ""
+token: P8BbPFd2YIsjE8SHq92ZqDblcWW6XQW3T0LdLj3kNd9cRcRMJ0kc35TkSiqb5DrbnNlM9RCSImPN8WhbQI2Y/7IRS6YvbCoLnKpjtJtM/xkrj8c02K8EEj+28ivFBcvt
+cacertpath: /etc/bitfusion/tls/ca.crt
+keypath: /etc/bitfusion/tls/bitfusion.key
+certpath: /etc/bitfusion/tls/bitfusion.crt
+dbcertpath: ""
+session: ""
+webkeypath: /etc/bitfusion/tls/bitfusion.key
+webcertpath: /etc/bitfusion/tls/bitfusion.crt
+vcenter-enabled: false
+vcenter-guid: ""
+~              
